@@ -1,8 +1,8 @@
 class Gtpm < Formula
   desc "TPM in Go"
   homepage "https://github.com/Piszmog/gtpm"
+  version "1.0.0"
   license "MIT"
-  version "v1.0.0"
 
   if OS.mac? && Hardware::CPU.intel?
     url "https://github.com/Piszmog/gtpm/releases/download/v1.0.0/gtpm_Darwin_x86_64.tar.gz"
