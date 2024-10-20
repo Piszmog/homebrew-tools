@@ -24,8 +24,6 @@ class Gtpm < Formula
     sha256 "38442d164c9f8e551708e888854304c17ccd352833680206f1a21ce99c3e0f04"
   end
 
-  conflicts_with "gtpm"
-
   def install
     bin.install "gtpm"
   end
