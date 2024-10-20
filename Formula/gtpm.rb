@@ -1,4 +1,4 @@
-class GTPM < Formula
+class Gtpm < Formula
   desc "TPM in Go"
   homepage "https://github.com/Piszmog/gtpm"
   url "https://github.com/Piszmog/gtpm/archive/refs/tags/v1.0.0.tar.gz"
