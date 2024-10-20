@@ -6,7 +6,6 @@ class Gtpm < Formula
   license "MIT"
 
   depends_on "go" => :build
-  depends_on "tmux"
 
   def install
     system "go", "build", *std_go_args(ldflags: "-s -w")
