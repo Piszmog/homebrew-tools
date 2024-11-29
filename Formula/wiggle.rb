@@ -1,7 +1,7 @@
 class Wiggle < Formula
   desc "Wiggle"
   homepage "https://github.com/Piszmog/wiggle"
-  version "1.0.0"
+  version "1.0.2"
   license "MIT"
 
   if OS.mac? && Hardware::CPU.intel?
