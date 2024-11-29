@@ -1,5 +1,5 @@
 class Wiggle < Formula
-  desc "Wiggle"
+  desc "Moves mouse around"
   homepage "https://github.com/Piszmog/wiggle"
   version "1.0.2"
   license "MIT"
